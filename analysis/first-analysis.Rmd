@@ -1,0 +1,17 @@
+---
+title: "first-analysis"
+author: "DorotheeMersch"
+date: "2021-06-07"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+x = 4
+y = 2
+print(x+y)
+```
+
